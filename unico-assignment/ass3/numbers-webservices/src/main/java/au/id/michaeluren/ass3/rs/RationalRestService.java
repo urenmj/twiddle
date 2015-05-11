@@ -17,8 +17,6 @@ import javax.ws.rs.core.Response;
 
 import au.id.michaeluren.ass3.data.Pair;
 import au.id.michaeluren.ass3.ejb.NumberStorageService;
-import au.id.michaeluren.ass3.util.GcdFunction;
-import au.id.michaeluren.ass3.util.SumFunction;
 import au.id.michaeluren.ass3.util.SystemException;
 
 @Path("/rationals")
